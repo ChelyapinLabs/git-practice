@@ -5,4 +5,3 @@ Third line from conflict branch
 Change from test branch
 Change for fetch test
 Change from clone test
-Revert demo
